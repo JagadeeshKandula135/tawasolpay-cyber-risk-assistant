@@ -172,13 +172,12 @@ tawasolpay-risk-prioritization/
 ├── requirements.txt
 └── README.md
 ```
-## Local Setup & Execution Guide
 
 ### Steps
 
 ```bash
 # 1. Clone the repository and enter the directory
-git clone [https://github.com/JagadeeshKandula135/tawasolpay-risk-prioritization.git](https://github.com/JagadeeshKandula135/tawasolpay-risk-prioritization.git)
+git clone https://github.com/JagadeeshKandula135/tawasolpay-risk-prioritization.git
 cd tawasolpay-risk-prioritization
 
 # 2. Create and activate a virtual environment
