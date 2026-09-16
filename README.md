@@ -177,8 +177,8 @@ tawasolpay-risk-prioritization/
 
 ```bash
 # 1. Clone the repository and enter the directory
-git clone https://github.com/JagadeeshKandula135/tawasolpay-risk-prioritization.git
-cd tawasolpay-risk-prioritization
+git clone https://github.com/JagadeeshKandula135/tawasolpay-cyber-risk-assistant.git
+cd tawasolpay-cyber-risk-assistant
 
 # 2. Create and activate a virtual environment
 python -m venv riskenv
